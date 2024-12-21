@@ -1,6 +1,29 @@
-# Welcome to your Expo app 👋
+# Haven Hurst - Real Estate Platform  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Haven Hurst is a comprehensive real estate platform designed to streamline property management, discovery, and transactions. It caters to both buyers and sellers by providing a modern, user-friendly experience across mobile and web applications.  
+
+## Features  
+- **Mobile App** (React Native via Expo CLI):  
+  - Seamless property search and browsing.  
+  - Save and manage favorite listings.  
+  - Easy navigation with an intuitive user interface.  
+
+- **WebApp & Dashboard** (Next.js):  
+  - Advanced property search with filtering options.  
+  - Admin dashboard for managing listings, users, and analytics.  
+  - Responsive design for optimal user experience on any device.  
+
+## Tech Stack  
+- **Frontend:** React Native (Expo CLI), Next.js  
+- **Backend:** Node.js  
+- **Database:** MongoDB (or specify your choice)  
+- **Hosting:** Vercel (or specify)  
+
+## Installation and Setup  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/haven-hurst.git  
+   cd haven-hurst  
 
 ## Get started
 
@@ -35,16 +58,9 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## **About Description**  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Haven Hurst** is a next-generation real estate platform that simplifies property management and discovery. Built with modern web and mobile technologies, it offers a seamless experience for users on all devices. Designed for efficiency, it includes tools for browsing, managing, and analyzing properties.  
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
