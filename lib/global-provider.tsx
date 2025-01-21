@@ -4,8 +4,8 @@ import { getCurrentUser } from "./appwrite";
 import { useAppwrite } from "./useAppwrite";
 import { Redirect } from "expo-router";
 
-interface GlobalContextType {
-  isLogged: boolean;
+interface GlobalContextType {  
+  isLoggedIn: boolean;
   user: User | null;
   loading: boolean;
   refetch: () => void;
